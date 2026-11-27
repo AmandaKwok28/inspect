@@ -6,6 +6,8 @@ Inspect was built out of a recurring frustration I had while working on frontend
 
 Sometimes I just want to know the font size of a heading, the padding inside a button, or the spacing between two elements. Inspect makes that information accessible directly on the page.
 
+https://github.com/user-attachments/assets/da860ce9-b105-433b-91ea-741d1c4984a1
+
 ## Features
 
 ### Style inspection
