@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Inspect",
+  "version": "0.1.0",
+  "description": "A visual Tailwind design inspector",
+  "action": {},
+  "background": {
+    "service_worker": "src/background.ts",
+    "type": "module"
+  },
+  "permissions": ["activeTab", "scripting", "storage"],
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+I",
+        "mac": "Alt+Shift+I"
+      }
+    }
+  }
+}
