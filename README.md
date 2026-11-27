@@ -2,9 +2,7 @@
 
 A lightweight Chrome extension for inspecting, measuring, and modifying elements directly on a webpage.
 
-Inspect was built out of a recurring frustration I had while working on frontend applications: trying to follow existing design conventions without having to constantly navigate Chrome DevTools, search through a codebase, or track down a Figma file.
-
-Sometimes I just want to know the font size of a heading, the padding inside a button, or the spacing between two elements. Inspect makes that information accessible directly on the page.
+Sometimes I just want to know the font size of a heading, the padding inside a button, or the spacing between two elements without having to google the tailwind class equivalent. Inspect makes that information accessible directly on the page.
 
 https://github.com/user-attachments/assets/da860ce9-b105-433b-91ea-741d1c4984a1
 
