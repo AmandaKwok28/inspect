@@ -100,3 +100,7 @@ Inspect runs entirely in the browser. It does not require a backend, an account,
 Tailwind utilities are inferred from computed CSS values using default Tailwind conventions. They may not correspond exactly to a website's original utilities or custom design tokens.
 
 Spacing measurements represent rendered distances between element bounding boxes rather than the underlying CSS properties responsible for those distances.
+
+## License
+
+Licensed under the [MIT License](LICENSE).
